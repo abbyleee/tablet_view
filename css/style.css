@@ -290,7 +290,7 @@ ol li, .ingredient li, .likes li {
     h1 {
         animation: none;
     }
-    #gif {
+    .gif {
         display: none;
     }
 }
